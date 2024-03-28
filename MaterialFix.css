@@ -68,7 +68,7 @@
 }
 
 .theme-dark {
-  --main-color: rgba(120,120,120, 0.5);
+  --main-color: rgba(120,120,120, 0.1);
   --main-alt: #0f1012;
   --accent-hsl--material-you: var(--accent-hsl);
   --accent-text-color--material-you: var(--accent-text-color);
